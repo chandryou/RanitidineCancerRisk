@@ -29,7 +29,7 @@
 		},
 		"rlang" : {
 			"Package" : "rlang",
-			"Version" : "0.4.7",
+			"Version" : "0.4.10",
 			"Source" : "Repository",
 			"Repository" : "CRAN"
 		},
@@ -856,7 +856,7 @@
       "RemoteType" : "github",
       "RemoteHost" : "api.github.com",
       "RemoteRepo" : "RanitidineCancerRisk",
-      "RemoteUsername" : "ohdsi-studies",
+      "RemoteUsername" : "chandryou",
       "RemoteRef" : "v0.5"
     }
 	}
